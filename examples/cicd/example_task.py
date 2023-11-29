@@ -6,7 +6,7 @@ from tqdm import tqdm
 
 task = Task.init(
     project_name='Github CICD',
-    task_name='Example Task CICD 1',
+    task_name='Example Task CICD 2',
     reuse_last_task_id=False
 )
 
